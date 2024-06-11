@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../TestTransmit"
+		},
+		{
+			"name": "Force Test",
+			"path": "../Force Test"
+		},
+		{
+			"name": "MPU Test",
+			"path": "../MPU Test"
+		},
+		{
+			"name": "Handschuh Controller",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
